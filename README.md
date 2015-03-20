@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Getting and Cleaning Data
 
 This folder, "CodeBook.md" and "run_analysis.R" files are for cleaning, tidying, exporting Human Activity Recognition Using Smartphones Projects' data, making it more readable and more workable.
@@ -41,12 +40,8 @@ Data Set is multivariate, time-series, there are 10299 instances, and 561 attrib
 
 ## SOURCES & REFERENCES
 
-| Useful References
-
 - Grep function <http://r.789695.n4.nabble.com/Selecting-columns-whose-names-contain-quot-mutated-quot-except-when-they-also-contain-quot-non-quot--td4580914.html>
 - Regex <http://stackoverflow.com/questions/12126597/remove-comma-from-a-digits-portion-string/12126997#12126997>
 - Combining Vectors <http://www.r-tutor.com/r-introduction/vector/combining-vectors>
 - Gsub help <https://github.com/NikosAlexandris/CourseProject_TidyData>
-=======
-# Coursera-GettingCleaning
->>>>>>> b64f4a15bac2dacc10eaf7dea15f81cc277064c4
+
