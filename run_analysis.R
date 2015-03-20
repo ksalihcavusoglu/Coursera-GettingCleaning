@@ -1,6 +1,6 @@
 # script assumes it is working on UCI HAR Dataset zip extract
-working_directory <- '/home/kemals/Desktop/UCI HAR Dataset'
-setwd(working_directory)
+# working_directory <- '/home/kemals/Desktop/UCI HAR Dataset'
+# setwd(working_directory)
 
 # load data from files
 training_features <- read.table('train/X_train.txt')
